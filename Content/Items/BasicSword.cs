@@ -19,11 +19,13 @@ namespace terrasic.Content.Items
 			Item.useTime = 20;
 			Item.useAnimation = 20;
 			Item.useStyle = ItemUseStyleID.Swing;
-			Item.knockBack = 6;
+			Item.knockBack = 60;
 			Item.value = Item.buyPrice(silver: 1);
 			Item.rare = ItemRarityID.Blue;
 			Item.UseSound = SoundID.Item1;
 			Item.autoReuse = true;
+			Item.crit = 86;
+			Item.scale = 3;
 		}
 
 		/*public override void AddRecipes()

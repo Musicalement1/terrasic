@@ -11,4 +11,11 @@ Items: {
 			It's snowing on Mt.Fuji
 			'''
 	}
+
+	NuclearBarrel: {
+		DisplayName: Nuclear Barrel
+		Tooltip: ""
+	}
 }
+
+Projectiles.NuclearBarrel.DisplayName: Nuclear Barrel
