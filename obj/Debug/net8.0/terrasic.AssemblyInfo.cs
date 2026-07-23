@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("terrasic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff2259d2783a4eb268c5f69d2a0a4d03353d856b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee97a9d7b3edb77f823956f36553bf8d796fb58d")]
 [assembly: System.Reflection.AssemblyProductAttribute("terrasic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("terrasic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

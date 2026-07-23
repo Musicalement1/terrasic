@@ -16,6 +16,24 @@ Items: {
 		DisplayName: Nuclear Barrel
 		Tooltip: ""
 	}
+
+	BalefireThrower: {
+		DisplayName: Balefire Thrower
+		Tooltip: ""
+	}
+
+	Minigun: {
+		DisplayName: Minigun
+		Tooltip: ""
+	}
+
+	RealSniper: {
+		DisplayName: Real Sniper
+		Tooltip: ""
+	}
 }
 
-Projectiles.NuclearBarrel.DisplayName: Nuclear Barrel
+Projectiles: {
+	NuclearBarrel.DisplayName: Nuclear Barrel
+	Balefire.DisplayName: Balefire
+}
